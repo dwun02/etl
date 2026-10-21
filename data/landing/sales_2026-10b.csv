@@ -1,0 +1,11 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P007,Skyflakes Cereal,Snacks,2,12.00
+ORD-2001,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P008,Bear Brand Milk,Drinks,1,85.00
+ORD-2002,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P009,Lucky Me Beef Noodles,Noodles,5,15.00
+ORD-2003,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P010,Century Tuna, canned goods,2,45.00
+ORD-2004,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P007,Skyflakes Cereal,Snacks,1,12.00
+ORD-2005,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P011,Colgate Toothpaste,Personal Care,1,95.00
+ORD-2006,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P012,Piattos Chips,Snacks,3,20.00
+ORD-2007,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P008,Bear Brand Milk,Drinks,2,85.00
+ORD-2008,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P009,Lucky Me Beef Noodles,Noodles,1,
+ORD-2003,2026-10-05,S004,Tindahan ni Maria,Brgy. San Roque,Quezon City,P010,Century Tuna, canned goods,2,45.00
